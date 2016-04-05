@@ -26,3 +26,18 @@ Videos: https://vimeo.com/ndcconferences/videos
 DotNetFringe    
 Website:    
 Videos https://www.youtube.com/channel/UCIz73jo7KPqVTssbUmiIfXg/videos
+
+Curry On  
+Website: http://curry-on.org/  
+Videos:
+
+Lambda Days  
+Website: http://www.lambdadays.org/  
+Videos: 
+
+Lambda Conf  
+Website: http://lambdaconf.us/  
+Videos: 
+
+
+
